@@ -9,7 +9,7 @@
 Install the package via composer:
 
 ```
-composer require riari/laravel-forum-frontend:~1.0
+composer require riari/laravel-forum-frontend:~2.0
 ```
 
 Then add the service provider to your `config/app.php`:
